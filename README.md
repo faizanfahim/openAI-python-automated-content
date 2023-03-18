@@ -9,6 +9,7 @@ What it do?
 1. Ask the CSV file path
 2. Ask the column name (case sensitive)
 3. Ask the OpenAI Api Key
+4. Ask the Open AI model engine (https://platform.openai.com/docs/models/gpt-3) only tested gpt-3 engines
 
 Then it reads the keyword from the column and produce content.
 
