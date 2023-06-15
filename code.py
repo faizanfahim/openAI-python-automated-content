@@ -4,6 +4,8 @@ import sys
 
 openai.api_key = "YOUR_API_KEY"
 
+# test
+
 def generate_article(prompt, model_engine):
     response = openai.Completion.create(
         engine=model_engine,
