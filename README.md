@@ -13,4 +13,4 @@ What it do?
 
 Then it reads the keyword from the column and produce content.
 
-We can use it to spam the internet with rubbish content. :)
+We can use it to spam the internet with rubbish content. [Here is how I used it](https://faizanfahim.com/publishing-350-blog-posts-with-chatgpt-content/). :)
